@@ -19,7 +19,7 @@ these constraints:
 
 ## Example
 
-```
+```zsh
 HEY KID!
 > hi, grandma
 SPEAK UP, KID!
